@@ -60,27 +60,29 @@ a:hover,
 a:active {
   color: #cd611b;
 }
-#block-gsa-bootstrap-footer ul.menu.nav { 
-  width: 100%;
-  max-width: 700px;
-  padding: 0;
+.region-footer {
+  max-width: 50em;
+  margin: auto;
+}
+#block-gsa-bootstrap-footer {
+  position: relative;
+  margin: 1em;
+  overflow: hidden;
+}
+#block-gsa-bootstrap-footer ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-left: -1px;
+}
+#block-gsa-bootstrap-footer li {
+  flex-grow: 1;
+  flex-basis: auto;
+  margin: .25em 0;
+  padding: 0 1em;
   text-align: center;
-  margin-top: 25px; 
-  margin-left: auto;
-  margin-right: auto;
-}
-#block-gsa-bootstrap-footer ul.menu.nav li.expanded.dropdown {
-  display: inline;
-  white-space: nowrap;
-}
-#block-gsa-bootstrap-footer .nav>li>a{
-  display: inline;
-}
-#block-gsa-bootstrap-footer ul li.expanded.dropdown:after {
-  content: "  ";
-}
-#block-gsa-bootstrap-footer ul li.expanded.dropdown:last-child:after {
-  content: "";
+  border-left: 1px solid #ccc;
 }
 .view-about-us .views-row {
   min-height : 250px;

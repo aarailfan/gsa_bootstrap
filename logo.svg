@@ -1,26 +1,26 @@
-<svg
-     version="1.1"
-     xmlns="http://www.w3.org/2000/svg"
-     xmlns:xlink="http://www.w3.org/1999/xlink"
-     width="32px" height="32px"
-     viewBox="0 0 32 32" preserveAspectRatio="none">
-   <g>
-<image width="32" height="32" xlink:href="data:image/png;base64,
-iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
-bWFnZVJlYWR5ccllPAAAAohJREFUeNrEl1tIVGEQx12L0BQjoXwpoRfxIQUJuhAIvVRLIRQELYj1
-oKDgpQgVNQhBChQfLFDLoovVS0RQYuqLPUgFgTcQia5CSBBERUiKuv0+GGGJPd/l7Nkc+DNn98w3
-8/++mXNmTigajaasp4T8Ejhx+GIWavOTkbaviRBITWBtIbgDkfT1InAGHAGDkNj2X1NAwFLU3ZgN
-fATnSMezpBIgcAaqWRBPHoFLEJlNVgpWRC943D8FJiDaA3IDOQEc5aNK5Ocou3vDf3u5HgFbNEu/
-gzrs7/smQKAa1BWQEfN3L06ruFcmdWCSa+A8a1acUkCAetTVf4IrqeReBIf3pPhMojbR41QDBDiO
-atc4LRU9ZVk7FXKaZgLyhus2OExbS6FDAV+OV5jxTqAa7DQ4e4qzTegiBwKZoFFLAKdqZ+UGR8Pk
-vwu9A7i+AU8TY6vuBNTjtcvgJB0nJyGhCvAgeO9AIBsc0hHYb+GkGDyGxG1ITHIdlmfeVop1BAoc
-HJ2FxENIqBOodVhXoCOw3TGnEfVCgsQDrmcc0uBJYNVHR20S3R/EPDDvw0c+p6AK94Wl/aKOwLTP
-uSIPfAHLFrYfdAReJzBZ2abvpY7ABHjrg8AcyAEbDXZL4LknAapZGdxyDD4vpPdZ2A7JC0zbC3pl
-R7bSJ70+YjFNtVoNJNKObQbMcXAA7AFjhhGvA6INVvMAhgOoBkNwNQsck5Z8wxB8wGuQ9VwEiQ7U
-BSmcWPkGOiXnv2QS3q0Jru6rCWrZ71BaKH0/JLXxCmd/+F8RuKkJ/gO0YNsd6IcJgcPSfI56mLxT
-3RJcJ/jnoD9MNsg3oZobcqWxqGf/J/gkdTFJ4N9J/zoOSv4KMAC++teHNUg1rQAAAABJRU5ErkJg
-gg==
-"/>
-   </g>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="100.000000pt" height="75.000000pt" viewBox="0 0 100.000000 75.000000"
+ preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata>
+<g transform="translate(0.000000,75.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M637 718 c-18 -9 -23 -53 -8 -62 10 -7 2 -54 -11 -62 -5 -3 -17 1
+-26 10 -36 32 -116 59 -177 60 -159 1 -283 -103 -317 -268 -10 -46 -9 -64 6
+-117 l17 -62 -29 -31 c-60 -64 -83 -102 -69 -114 39 -32 66 -33 128 -1 l60 30
+32 -19 c100 -61 197 -64 304 -12 95 47 161 141 171 243 5 49 4 50 -19 43 -13
+-4 -40 -9 -59 -13 -19 -3 -41 -10 -47 -16 -7 -5 -13 -6 -13 -2 0 5 -8 1 -17
+-7 -19 -16 -102 -42 -110 -35 -2 3 17 13 44 23 26 9 53 21 59 25 16 13 215 59
+251 59 55 0 134 21 154 41 44 44 4 108 -57 90 -16 -4 -62 -22 -101 -40 -39
+-17 -78 -31 -87 -31 -27 0 -17 29 17 50 46 27 57 39 56 58 -1 15 -2 15 -6 -1
+-2 -9 -19 -25 -36 -34 -18 -9 -69 -45 -114 -80 -60 -47 -81 -68 -77 -81 5 -13
+4 -14 -4 -3 -8 11 -43 -12 -167 -109 -172 -133 -234 -175 -279 -186 l-29 -7
+19 33 c30 50 122 131 362 315 121 94 225 179 230 191 6 12 7 27 1 35 -12 19
+-11 49 1 49 6 0 10 -6 10 -12 1 -7 14 -40 30 -73 l28 -60 1 47 c1 39 -4 53
+-35 90 -41 49 -63 60 -87 46z"/>
+</g>
 </svg>
-

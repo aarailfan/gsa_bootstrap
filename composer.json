@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "drupal/bootstrap": "^3.13"
+    "drupal/bootstrap": "^3"
   },
   "authors": [
     {

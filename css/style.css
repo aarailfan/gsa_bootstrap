@@ -53,6 +53,9 @@ li.expanded.dropdown.active {
   padding-top: 10px;
   padding-bottom: 10px;
 }
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+  margin: auto;
+}
 a,
 a:link,
 a:visited,

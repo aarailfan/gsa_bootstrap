@@ -144,6 +144,9 @@ a:active {
     margin-right: auto;
     margin-bottom: 0px;
   }
+  .carousel-inner>.item>img, .carousel-inner>.item>a>img {
+    height: 120px;
+  }
 }
 
 @media only screen and (min-width : 401px) {
@@ -151,5 +154,8 @@ a:active {
     float: right;
     margin-left: 15px;
     margin-bottom: 15px;
+  }
+  .carousel-inner>.item>img, .carousel-inner>.item>a>img {
+    height: 330px;
   }
 }
